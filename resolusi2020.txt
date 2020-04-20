@@ -5,3 +5,4 @@ Resolusi 2020:
 - Membuat Project Laravel
 - Belajar API.
 - Membuat Rest Server dan Rest Client.
+- Belajar Django CMS
