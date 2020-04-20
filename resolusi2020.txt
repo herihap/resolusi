@@ -1,0 +1,7 @@
+Resolusi 2020:
+- Belajar Code Igniter Lanjutan.
+- Membuat Project Code Igniter.
+- Belajar Laravel.
+- Membuat Project Laravel
+- Belajar API.
+- Membuat Rest Server dan Rest Client.
