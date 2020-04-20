@@ -1,0 +1,2 @@
+-menggunakan CI
+-menggunakan Django CMS
